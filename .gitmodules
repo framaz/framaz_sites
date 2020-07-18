@@ -1,0 +1,3 @@
+[submodule "yet_another_pixel_draw"]
+	path = yet_another_pixel_draw
+	url = https://github.com/framaz/yet_another_pixel_draw
